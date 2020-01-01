@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Paolo Girardi</title>
-    <link>/courses/</link>
-      <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://paolin83.github.io/courses/</link>
+      <atom:link href="https://paolin83.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><copyright>©2020</copyright>
     <image>
-      <url>/img/profilo.jpg</url>
+      <url>https://paolin83.github.io/img/profilo.jpg</url>
       <title>Courses</title>
-      <link>/courses/</link>
+      <link>https://paolin83.github.io/courses/</link>
     </image>
     
   </channel>

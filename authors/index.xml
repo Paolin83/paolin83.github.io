@@ -2,31 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Paolo Girardi</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://paolin83.github.io/authors/</link>
+      <atom:link href="https://paolin83.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><copyright>©2020</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/profilo.jpg</url>
+      <url>https://paolin83.github.io/img/profilo.jpg</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://paolin83.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <link>https://paolin83.github.io/authors/admin/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://paolin83.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Gennaio 2020, mi chiamo Paolo Girardi e sono in servizio come ricercatore in Psicometria (M PSI/03) presso il Dipartimento di Psicologia dello Sviluppo e della Socializzazione dell&#39;Università degli Studi di Padova. I miei interessi di ricerca comprendono la statistica applicata in Psicologia e in Medicina, con particoare attenzione per l&#39;analisi di dati funzionali, tecniche di classificazione e metodi per l&#39;epidemiologia. Sono parte del gruppo interdisciplinare Psicostat rivolto allo sviluppo di metodi quantitativi nelle discipline riguandanti la psicologia e la statistica in generale e collaboro con il Servizio Epidemiologico Regionale per l&#39;analisi di dati sanitari e progetti di ricerca.&lt;/p&gt;
+&lt;p&gt;Quando ho tempo libero pratico sport (palestra, corsa, sbandierare), visitare luoghi e manifestazioni e cucinare (e mangiare) da libero appassionato. Sono membro del Direttivo della Federazione Italiana Sbandieratori (&lt;a href=&#34;http://www.fisb.net)&#34;&gt;www.fisb.net)&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Enzo Merler</title>
+      <link>https://paolin83.github.io/authors/enzo-merler/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://paolin83.github.io/authors/enzo-merler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <link>https://paolin83.github.io/authors/robert-ford/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://paolin83.github.io/authors/robert-ford/</guid>
       <description></description>
     </item>
     
