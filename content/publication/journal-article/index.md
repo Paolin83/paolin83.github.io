@@ -1,10 +1,10 @@
 ---
-title: "An example journal article"
-authors:
+title: "A mortality study on male subjects exposed to polyfluoroalkyl acids with high internal dose of perfluorooctanoic acid"
+authors: 
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Enzo Merler
+date: "2019-10-01T00:00:00Z"
+doi: "10.1016/j.envres.2019.108743"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Environmental Research, 179*(Part A)"
+publication_short: "Environ Res"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The aim of the present study was to examine the association between exposure to polyfluoroalkyl substances (PFASs) and mortality (1970–2018) in a cohort of 462 male employees who had worked at least six months before 2009 for a factory (14,658 person-years; 107 deaths, average follow-up time 31.7 years), which had been producing perfluorooctanoic acid (PFOA), perfluorooctanesulfonyl fluoride (PFOS) and other chemicals since 1968. The cohort showed increased mortality for all causes and subjects in the highest cumulative internal dose of PFOA had a statistically significant increase for mortality of liver cancer, liver cirrhosis, diabetes, malignant neoplasms of lymphatic and haematopoietic tissue in both comparisons. Toxicological studies on PFOA and PFOS provide support for causality for the observed association with the risk for liver cirrhosis and liver cancer.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A cohort of workers exposed to PFOA showed an increased mortality of liver cancer, liver cirrhosis, diabetes, malignant neoplasms of lymphatic and haematopoietic tissue
 
 tags:
 - Source Themes
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -43,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://www.vvox.it/wp-content/uploads/2017/07/miteni01-1030x682.jpg)'
   focal_point: ""
   preview_only: false
 
@@ -52,14 +52,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [BIO-PFAS]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: biopfas
 ---
 
 {{% alert note %}}

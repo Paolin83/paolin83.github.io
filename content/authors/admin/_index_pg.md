@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ricercatore presso Dipartimento di Psicologia dello Sviluppo e della Socializzazione
+role: Research Fellow presso Dipartimento di Psicologia dello Sviluppo e della Socializzazioe
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,8 @@ bio: I miei interessi di ricerca riguardano la statistica applicata (clustering,
 
 interests:
 - Statistica applicata
-- Metodi quantitativi per la ricerca in psicometria
-- Tecniche di imputazione di dati mancanti
+- Metodi per la ricerca in psicometria
+- Imputazione di dati mancanti
 
 education:
   courses:
@@ -56,22 +56,20 @@ social:
   link: https://github.com/paolin83
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv_01_07_2019.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "paolo.girardi@unipd.it"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+#user_groups: 
+#- Researchers
+#- Visitors
+#---
 
-Gennaio 2020, mi chiamo Paolo Girardi, ricercatore in Psicometria (M-PSI/03) presso il Dipartimento di Psicologia dello Sviluppo e della Socializzazione dell'Università degli Studi di Padova (https://www.dpss.unipd.it ). 
-I miei interessi di ricerca comprendono la statistica applicata in Psicologia e in Medicina, in particolare l'analisi di dati funzionali, tecniche di classificazione e metodi per l'epidemiologia. Faccio parte del gruppo interdisciplinare <a href="http://ip146179.psy.unipd.it/psicostat/web/" target=_blank> Psicostat</a>  rivolto allo sviluppo di metodi quantitativi nelle discipline riguandanti la psicologia e la statistica in generale.
-Collaboro con il Servizio Epidemiologico Regionale per l'analisi di dati sanitari e progetti di ricerca.
+Gennaio 2020, mi chiamo Paolo Girardi e sono in servizio come ricercatore in Psicometria (M PSI/03) presso il Dipartimento di Psicologia dello Sviluppo e della Socializzazione dell'Università degli Studi di Padova. I miei interessi di ricerca comprendono la statistica applicata in Psicologia e in Medicina, con particoare attenzione per l'analisi di dati funzionali, tecniche di classificazione e metodi per l'epidemiologia. Sono parte del gruppo interdisciplinare Psicostat rivolto allo sviluppo di metodi quantitativi nelle discipline riguandanti la psicologia e la statistica in generale e collaboro con il Servizio Epidemiologico Regionale per l'analisi di dati sanitari e progetti di ricerca.
 
-Quando ho tempo libero pratico sport (palestra, corsa, sbandierare!), visitare luoghi e manifestazioni. Sono membro del Direttivo della Federazione Italiana Sbandieratori (www.fisb.net ).
+Quando ho tempo libero pratico sport (palestra, corsa, sbandierare), visitare luoghi e manifestazioni e cucinare (e mangiare) da libero appassionato. Sono membro del Direttivo della Federazione Italiana Sbandieratori (www.fisb.net).

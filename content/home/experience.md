@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Esperienze lavorative"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,52 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Ricercatore a tempo determinato"
+  company = "Università degli Studi di Padova"
+  company_url = "www.unipd.it"
+  location = "Padova"
+  date_start = "2019-09-02"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Le mie responsabilità includono:
+  * Insegnamento universitario di discipline informatiche/statistiche e psicometria
+  * Ricerca in nel settore displicinare M-PSI/03 (Psicometria)
+  * Terza missione presso Enti pubblici/privati
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Collaboratore statistico [in aspettativa]"
+  company = "Servizio Epidemiologico Regionale"
+  company_url = "https://www.ser-veneto.it/it"
+  location = "Padova"
+  date_start = "2018-11-01"
+  date_end = "2019-09-01"
+  description = """Afferente al Registro dei Casi di Mesotelioma, analisi dati e ricerca in ambito sanitario"""
 
+[[experience]]
+  title = "Borsista e collaboratore statistico"
+  company = "ULSS 16/ULSS4 presso Registro dei Casi di Mesotelioma"
+  company_url = "https://www.ser-veneto.it/it"
+  location = "Padova"
+  date_start = "2012-04-01"
+  date_end = "2018-11-01"
+  description = """Registro dei Casi di Mesotelioma, Centro Operativo analisi dati e ricerca in ambito sanitario"""
+
+[[experience]]
+  title = "Assegnista Post PhD, Analisi dati longitudinali"
+  company = "Università Ca' Foscari di Venezia"
+  company_url = "http://www.unive.it"
+  location = "Venezia"
+  date_start = "2013-10-01"
+  date_end = "2015-08-03"
+  description = """Sviluppo di metodi statistici in serie temporali"""
+  
+[[experience]]
+  title = "Co-Co-Pro statistico"
+  company = "Regione Veneto - Sistema Statistico Regionale"
+  company_url = "http://statistica.regione.veneto.it"
+  location = "Venezia"
+  date_start = "2012-04-01"
+  date_end = "2013-10-01"
+  description = """Collaboratore statistico nell'ambito del Progetto Europeo STAR"""
 +++
