@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601998266390.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "506827620",
+    "id" : "784EB808",
+    "lastKnownWriteTime" : 1602000470,
+    "last_content_update" : 1602000470527,
+    "path" : "~/My_Website/content/it/courses/PhD_neuroscience/example1.md",
+    "project_path" : "content/it/courses/PhD_neuroscience/example1.md",
+    "properties" : {
+        "cursorPosition" : "17,72",
+        "scrollLine" : "9"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

@@ -1,0 +1,9 @@
+{
+    "path" : "~/My_Website/content/it/courses",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
