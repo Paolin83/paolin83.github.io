@@ -18,8 +18,6 @@ weight: 1
 - [Rmd](https://github.com/Paolin83/content/it/courses/PhD_neuroscience/R_PhD_neuroscience_1.rmd)
 - [Pdf](https://github.com/Paolin83/content/it/courses/PhD_neuroscience/R_PhD_neuroscience_1.pdf)
 
-
-
 ## Lesson 2
 ---
 - [Rmd](https://github.com/livioivil/inference_basics/blob/master/inference_booklet.html) 
