@@ -97,11 +97,11 @@ address = {street = "Via Venezia 8", city = "Padova", region = "Veneto", postcod
 coordinates = {latitude = "45.411109", longitude = "11.893506"}
 
 # Directions for visitors to locate you.
-directions = "Entrare nell'edificio, in fondo prendere ascensore o scale, terzo piano e a sinistra"
+directions = "Terzo piano (ascensore o scale), poi a sinistra / Third floor (lift or stairs), then left"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Martedì 10:30 to 12:30"]
+office_hours = ["Martedì dalle 10:30 alle 12:30 / Tuesday from 10:30 to 12:30"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
@@ -168,12 +168,13 @@ plugins_js  = []
 
 # Available address formats.
 [address_formats]
-  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
-  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
+  en-us = {order = ['street', 'city', 'country', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  en-gb = {order = ['street', 'city', 'country', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   de = {order = ['street', 'postcode', 'city'], delimiters = [', ', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
-
+ it = {order = ['postcode', 'city', 'country', 'street'], delimiters = [' ', ' ', ' ', '']}
+ en = {order = ['postcode', 'city', 'country', 'street'], delimiters = [' ', ' ', ' ', '']}
 # Configuration of publication pages.
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )

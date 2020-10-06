@@ -1,0 +1,37 @@
+---
+# Some teaching material  
+linktitle: 
+summary:
+weight: 1
+
+# Page metadata.
+title: Optional and preliminary course on use of R
+date: "2020-08-10T00:00:00Z"
+lastmod: "2020-08-10T00:00:00Z"
+draft: true  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
+menu:
+  example:
+    name: Overview
+    weight: 1
+---
+
+Teacher: [Paolo Girardi](https://paolin83.github.io/)
+
+
+# Some teaching material  
+
+## PhD in Neuroscience -  Statistics with R and R-Studio  
+
+The course provides some preliminary notions to the use of R and R-Studio, for the statistical analysis in Neuroscience   
+ 
+ 
+|  Lecture    | Booklet (Rmd)|Booklet (pdf)|
+|--------------|--------|-------|-------|-------|
+| *Preliminary course on use of R* |
+[Rmd](https://paolin83.github.io/content/it/courses/PhD_neuroscience/R_PhD_neuroscience_1.Rmd)| [pdf](https://paolin83.github.io/content/it/courses/PhD_neuroscience/R_PhD_neuroscience_1.pdf)|
