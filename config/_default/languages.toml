@@ -3,18 +3,44 @@
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the site.
-[it]
-  languageCode = "it"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+[en]
+  languageCode = "en"
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-# [en-us]
-#  languageCode = "en.us"
-#   contentDir = "content/zh"
-#   title = "English website title..."
-#   [en.params]
-#     description = "Site description in English..."
-#   [[en.menu.main]]
-  #   name = "Wo"
-  #   url = "#about"
-  #   weight = 1
+[it]
+  languageCode = "it"
+ contentDir = "content/it"
+   title = "Paolo Girardi"
+   
+[[it.menu.main]]
+  name = "Notizie"
+  url = "#content/it/home/posts"
+  weight = 20
+
+[[it.menu.main]]
+  name = "Progetti"
+  url = "#content/it/home/pprojects"
+  weight = 30
+
+[[it.menu.main]]
+  name = "Pubblicazioni"
+  url = "#content/it/home/pfeatured"
+  weight = 40
+
+[[it.menu.main]]
+  name = "Corsi"
+  url = "#content/it/home/courses/"
+  weight = 50
+
+[[it.menu.main]]
+  name = "Contatti"
+  url = "#content/it/home/contact"
+  weight = 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70
